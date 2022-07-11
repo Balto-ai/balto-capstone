@@ -67,20 +67,20 @@ It will include progress tracking (including a live feed of achievements and a s
 
 ### Dog Profile
 
-<img src="https://i.imgur.com/ziOGsNV.png" width=400px>
+<img src="https://i.imgur.com/ziOGsNV.png" width=600px>
 
 ### Dog Search View
 
-<img src="https://i.imgur.com/M2pNhSv.png" width=400px>
+<img src="https://i.imgur.com/M2pNhSv.png" width=600px>
 
 ### Admin Dashboard
 
-<img src="https://i.imgur.com/J6F5JkG.png" width=400px>
+<img src="https://i.imgur.com/J6F5JkG.png" width=600px>
 
 ### Create Dog Entry
 
-<img src="https://i.imgur.com/Z38XpvS.png" width=400px>
+<img src="https://i.imgur.com/Z38XpvS.png" width=600px>
 
 ### Update Dog Entry
 
-<img src="https://i.imgur.com/QQItMPk.png" width=400px>
+<img src="https://i.imgur.com/QQItMPk.png" width=600px>
