@@ -53,7 +53,9 @@ The app will include progress tracking (including a live feed of achievements an
 
 ## Pages/Screens
 
-[Figma Link](https://www.figma.com/file/a0jPT7oHYiOqXGnYfxgm5I/Wireframe?node-id=0%3A1)
+[Figma Link](https://www.figma.com/file/a0jPT7oHYiOqXGnYfxgm5I/Wireframe?node-id=77%3A333)
+
+![Figma Wireframe Screenshot](https://i.imgur.com/hoaEM8f.jpg)
 
 ### Error Pages
 
@@ -73,8 +75,6 @@ The app will include progress tracking (including a live feed of achievements an
 * Quiz Page
 
 ### Admin-facing
-
-
 
 * View All Dogs
 * Add a dog
@@ -518,7 +518,7 @@ The app will include progress tracking (including a live feed of achievements an
    </td>
    <td><strong>Router</strong>
    </td>
-   <td><strong>Endpoints</strong>
+   <td><strong>Route</strong>
    </td>
   </tr>
   <tr>
