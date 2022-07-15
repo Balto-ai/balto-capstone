@@ -55,7 +55,7 @@ The app will include progress tracking (including a live feed of achievements an
 
 [Figma Link](https://www.figma.com/file/a0jPT7oHYiOqXGnYfxgm5I/Wireframe?node-id=77%3A333)
 
-![Figma Wireframe Screenshot](https://i.imgur.com/hoaEM8f.jpg)
+![Figma Wireframe Screenshot](https://i.imgur.com/PhwxEGz.jpg)
 
 ### Error Pages
 
